@@ -36,7 +36,7 @@
 ## Projects List :
 <table>
   <tr>
-    <td><h1 align="center"><a href="https://github.com/Deeptirtha/project1">Blogging Webite</a></h1></td>
+    <td><h1 align="center"><a href="https://github.com/Deeptirtha/project1">Blogging Website</a></h1></td>
     <td><img src="https://payu.in/blog/wp-content/uploads/2019/01/Blog-Cover.gif" /></td>
   </tr>
   <tr>
